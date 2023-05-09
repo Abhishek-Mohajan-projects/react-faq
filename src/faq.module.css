@@ -1,0 +1,17 @@
+.faq {
+  background-color: beige;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.6rem;
+  box-shadow: 0.1rem 0.1rem #2c2c2c;
+}
+
+.faq div {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  width: 3rem;
+  cursor: pointer;
+}
